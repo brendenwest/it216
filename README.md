@@ -1,4 +1,4 @@
-## AD 340 - Mobile Development
+## IT 216 - Android Mobile Development
 
 
 ### Class Details
