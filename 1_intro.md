@@ -3,13 +3,14 @@
 ### Reading
 
 - https://www.nngroup.com/articles/mobile-native-apps/
-- http://www.androidauthority.com/developing-for-android-vs-ios-697304/
 - https://developer.android.com/studio/intro/index.html (Intro, Projects Overview, Emulator)
-- https://developer.android.com/training/basics/firstapp/creating-project.html
+- https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app#0
+- https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1
 
 ### Reference
 
 - https://www.tutorialspoint.com/android/ (Home, Overview, Environment Setup, Architecture, Hello World example)
+- https://kotlinlang.org/docs/basic-syntax.html
 - https://developer.android.com/courses/fundamentals-training/overview-v2 (Unit 1)
 - https://github.com/brendenwest/it216/blob/master/git_cheat_sheet.md
 - https://developer.android.com/about/dashboards/index.html
