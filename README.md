@@ -27,7 +27,9 @@ There is no required textbook for this course. We will make use of numerous onli
 
 - https://developer.android.com/index.html
 - https://developer.android.com/courses
-- Android Studio 4.0 Development Essentials `Java <https://learning.oreilly.com/library/view/android-studio-40/9781800562660/>`_  or `Kotlin <https://learning.oreilly.com/library/view/android-studio-40/9781800560437/>`_
+- `Android Programming: The Big Nerd Ranch Guide, 5th Edition <https://learning.oreilly.com/library/view/android-programming-the/9780137645794/>`_ 
+
+**Note**: Seattle Colleges provides free access to many technical reference books at: https://libguides.seattlecentral.edu/az.php?a=o
 
 Students will need the following resources:
 
