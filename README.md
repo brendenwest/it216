@@ -46,11 +46,11 @@ Students can reach me directly throughout the week in the [SCC-Tutor Slack chann
 This course will cover the following topics, although the precise list & order is subject to revision:
 
 - Mobile development overview
-- The Android development ecosystem
-- Android activities & intents
-- UI Layouts, fragments, & event handling
-- Android testing & debugging
+- Android development tools & project structure
 - Dependency management
+- UI layout & event handling
+- View models and persisting state
+- Testing & debugging
 - Navigation UI & menus
 - Asynchronous tasks & web requests
 - Data storage & content providers

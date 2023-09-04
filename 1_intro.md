@@ -29,6 +29,17 @@ Intro to Android Studio- https://www.youtube.com/watch?v=kMI2jy-WlGM
 - Kotlin -v- Java
 - Building & Running a basic Android application
 
+### FAQ
+
+- Can I develop a mobile app for iOS and Android using one platform/language?
+  - yes, but there are tradeoffs to using a single development platform to target both mobile OS's.
+- Can I publish a mobile app outside of Apple / Google app stores?
+  - iOS apps (for the most part) must be published through Apple's App store. Android apps can be published outside the Google Play store but this can limit discoverability & monitoring.
+- Can I use a different IDE to develop an Android app?
+  - Technically, yes. But Android Studio simplifies many tasks specific to Android development
+- Should I develop an Android app with Java or Kotlin?
+  - You can develop a native Android app with either language (or both). But Google now prefers Kotlin and some features, such as Jetpack Compose, require Kotlin.
+
 ### Android Studio
 
 - setup
